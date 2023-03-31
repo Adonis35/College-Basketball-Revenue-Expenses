@@ -1,4 +1,4 @@
-# Sports Analytics - College Basketball Revenue & Expenses: 2003-2016
+# Assignment - College Basketball Revenue & Expenses: 2003-2016
 
 ### Authors: Adonis Abdullah, Taylor Cox, Connor Derrick
 
